@@ -1,0 +1,6 @@
+{
+  "name": "TaskMate",
+  "description": "Aplikasi manajemen tugas dan pengingat deadline perkuliahan untuk mahasiswa dengan pelacak waktu, prioritas, dan alarm otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

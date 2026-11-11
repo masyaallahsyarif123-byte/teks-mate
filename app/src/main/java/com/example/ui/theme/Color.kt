@@ -1,0 +1,75 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// TaskMate Brand Colors - Indigo & Emerald/Teal palette
+val PrimaryIndigo = Color(0xFF3525CD)
+val OnPrimary = Color(0xFFFFFFFF)
+val PrimaryContainer = Color(0xFF4F46E5)
+val OnPrimaryContainer = Color(0xFFDAD7FF)
+val PrimaryFixed = Color(0xFFE2DFFF)
+val OnPrimaryFixed = Color(0xFF0F0069)
+
+val SecondaryTeal = Color(0xFF006A61)
+val OnSecondary = Color(0xFFFFFFFF)
+val SecondaryContainer = Color(0xFF86F2E4)
+val OnSecondaryContainer = Color(0xFF006F66)
+val SecondaryFixed = Color(0xFF89F5E7)
+val OnSecondaryFixed = Color(0xFF00201D)
+
+val TertiaryAmber = Color(0xFF885500)
+val OnTertiary = Color(0xFFFFFFFF)
+val TertiaryContainer = Color(0xFFFFD4A4)
+val OnTertiaryContainer = Color(0xFF2A1700)
+val TertiaryFixed = Color(0xFFFFDDB8)
+val TertiaryFixedDim = Color(0xFFFFB95F)
+val OnTertiaryFixed = Color(0xFF2A1700)
+val OnTertiaryFixedVariant = Color(0xFF653E00)
+
+val ErrorRed = Color(0xFFBA1A1A)
+val OnError = Color(0xFFFFFFFF)
+val ErrorContainer = Color(0xFFFFDAD6)
+val OnErrorContainer = Color(0xFF93000A)
+
+val BackgroundLight = Color(0xFFFAF8FF)
+val OnBackgroundLight = Color(0xFF131B2E)
+val SurfaceLight = Color(0xFFFAF8FF)
+val OnSurfaceLight = Color(0xFF131B2E)
+val SurfaceVariantLight = Color(0xFFDAE2FD)
+val OnSurfaceVariantLight = Color(0xFF464555)
+val OutlineLight = Color(0xFF777587)
+val OutlineVariantLight = Color(0xFFC7C4D8)
+
+val SurfaceContainerLowestLight = Color(0xFFFFFFFF)
+val SurfaceContainerLowLight = Color(0xFFF2F3FF)
+val SurfaceContainerLight = Color(0xFFEAEDFF)
+val SurfaceContainerHighLight = Color(0xFFE2E7FF)
+val SurfaceContainerHighestLight = Color(0xFFDAE2FD)
+
+// Dark Theme Colors (Obsidian Navy Night Owl)
+val BackgroundDark = Color(0xFF0B1120)
+val OnBackgroundDark = Color(0xFFEEF0FF)
+val SurfaceDark = Color(0xFF0B1120)
+val OnSurfaceDark = Color(0xFFEEF0FF)
+val SurfaceVariantDark = Color(0xFF1E293B)
+val OnSurfaceVariantDark = Color(0xFFCBD5E1)
+val SurfaceContainerLowestDark = Color(0xFF060913)
+val SurfaceContainerLowDark = Color(0xFF111827)
+val SurfaceContainerDark = Color(0xFF1E293B)
+val SurfaceContainerHighDark = Color(0xFF243247)
+val SurfaceContainerHighestDark = Color(0xFF334155)
+
+val PrimaryDark = Color(0xFFA5B4FC)
+val OnPrimaryDark = Color(0xFF0F0069)
+val PrimaryContainerDark = Color(0xFF3730A3)
+val OnPrimaryContainerDark = Color(0xFFE0E7FF)
+
+val SecondaryDark = Color(0xFF5EEAD4)
+val OnSecondaryDark = Color(0xFF003732)
+val SecondaryContainerDark = Color(0xFF115E59)
+val OnSecondaryContainerDark = Color(0xFF99F6E4)
+
+val TertiaryDark = Color(0xFFFCD34D)
+val OnTertiaryDark = Color(0xFF451A03)
+val TertiaryContainerDark = Color(0xFF78350F)
+val OnTertiaryContainerDark = Color(0xFFFEF3C7)
